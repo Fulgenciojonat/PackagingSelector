@@ -15,3 +15,5 @@
 localhost:<portNumber>/product-packaging-selector
 
 
+Check other documentation under docs folder for more information.
+
